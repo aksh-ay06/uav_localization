@@ -1,6 +1,0 @@
-=== Improved UAV Localization Performance ===
-Mean Position Error: 19.436 m
-RMS Position Error: 19.714 m
-Max Position Error: 31.401 m
-Processing Time: 0.222 s
-Relative Error: 6.485%

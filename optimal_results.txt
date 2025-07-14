@@ -1,6 +1,0 @@
-=== Optimal UAV Localization Results ===
-Mean Error: 10343.217 m
-RMS Error: 13277.011 m
-Max Error: 26085.773 m
-Improvement: 0.0x better than original
-Success: Partial
