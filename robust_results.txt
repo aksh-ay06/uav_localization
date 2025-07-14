@@ -1,0 +1,8 @@
+Robust UAV Localization Results
+Mean Error: 63.222m
+RMS Error: 67.396m
+Max Error: 100.170m
+Median Error: 49.671m
+Accuracy <1m: 0.0%
+Accuracy <2m: 0.0%
+Accuracy <5m: 0.0%

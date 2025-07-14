@@ -1,0 +1,9 @@
+=== Ultra-Tuned UAV Localization Results ===
+Mean Error: 28.097 m
+RMS Error: 28.957 m
+Max Error: 46.514 m
+Median Error: 25.902 m
+Excellent (<1m): 0.0%
+Good (<2m): 0.0%
+Acceptable (<5m): 0.0%
+Rating: ❌ NEEDS IMPROVEMENT
